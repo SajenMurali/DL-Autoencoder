@@ -158,7 +158,7 @@ visualize_denoising(model, test_loader)
 
 ### Model Summary
 
-<img width="699" height="507" alt="Screenshot 2026-03-10 222240" src="https://github.com/user-attachments/assets/3d5ed3f4-7852-419a-9562-cd02ae60ac45" />
+![image alt](https://github.com/SajenMurali/DL-Autoencoder/blob/cf9e168900e6003838a37a727be4f732289b1878/Screenshot%202026-03-15%20224559.png)
 
 ### Training loss
 
