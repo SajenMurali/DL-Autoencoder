@@ -163,8 +163,7 @@ visualize_denoising(model, test_loader)
 ### Training loss
 
 ## Original vs Noisy Vs Reconstructed Image
-
-<img width="1667" height="549" alt="Screenshot 2026-03-10 222452" src="https://github.com/user-attachments/assets/7a174f01-beaf-46a2-a57c-c5cb8023b04f" />
+![image alt](https://github.com/SajenMurali/DL-Autoencoder/blob/0619b6280d72ba0cf18be7c0021261c2ccf733e2/Screenshot%202026-03-15%20224613.png)
 
 
 ## RESULT
